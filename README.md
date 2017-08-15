@@ -4,3 +4,4 @@ add a new line
 Create a new branch is quick
 b
 a
+c
